@@ -27,7 +27,7 @@ const AddStudent = ({total,newStudent}) => {
 
     return (
         <>
-            <div className="container-fluid pt-4">
+            <div className="container-fluid pt-4 px-4">
                 <div className="row">
                     <div className="col-lg-6 m-auto">
                         <fieldset className='border p-4 rounded'>

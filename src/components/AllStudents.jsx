@@ -5,7 +5,7 @@ const AllStudents = ({ allStudents, onDelete }) => {
     return (
         <>
             <>
-                <div className="container-fluid pt-3">
+                <div className="container-fluid pt-3 px-4">
                     <div className="row">
                         <div className="col-12 col-lg-8 m-auto">
                             <table className="table">
